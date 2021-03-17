@@ -3,7 +3,7 @@
 I'm currently living in Tunis and have worked in tech for about four years now.
 
 - 🖥 I’m currently working as a Sotware QA Engineer.
-- 💡 I’m currently working on creaing e2e tests with cypres and API tests ith Karate DSL. 
+- 💡 I’m currently working on creating e2e tests with cypress and API tests with Karate DSL. 
 - 📖 I'd love to learn more about database testing.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am a movie fanatic 🎥 My favourite movie is "The exorcist" (1970).
