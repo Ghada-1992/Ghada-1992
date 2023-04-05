@@ -1,6 +1,6 @@
 # Hi there, I'm Ghada. 👋
 
-I'm currently living in Tunis and have worked in tech for about four years now.
+I'm currently living in France and have worked in tech for about four years now.
 
 - 🖥 I’m currently working as a Sotware QA Engineer.
 - 💡 I’m currently working on creating e2e tests with cypress and API tests with Karate DSL. 
